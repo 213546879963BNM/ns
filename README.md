@@ -55,7 +55,7 @@ Umeng统计SDK（又名：友盟SDK）	1、App数据分析2、通过获取位置
 		访问网络连接，可能产生GPRS流量获取网络信息状态				
 		获取粗略位置				
 		读取手机状态和身份				
-		获取已安装APP信息				
+		获取已安装APP信息			
 		允许程序写入外部存储				
 4399应用市场和广告SDK	1：App中广告投放	设备信息，包含有：IMEI，IMSI，AndroidID，OAID，GAID，ICCID，MAC地址，IP，当前运行的进程	4399移动应用市场渠道包	http://web.4399.com/local/200810/22-1230.html	四三九九网络股份有限公司http://www.4399.com/	集成：广点通广告SDK、Mintegral广告SDK
 		允许程序写入外部存储				
